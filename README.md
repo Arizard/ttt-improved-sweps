@@ -19,6 +19,10 @@ of the spectrum.
 * Rifle is more accurate (less spread)
 * Glock is more accurate
 
+## Grenades
+Grenades will bounce predictably and consistently - they have a spherical hitbox now. This allows players to better understand where their grenade is going to land. 
+Grenades are also bouncier and make noise when they hit a surface at high speed.
+
 ## Recoil
 
 Weapons in this addon recoil in a predictable and compensatable manner. Weapon spread is random, however recoil always
