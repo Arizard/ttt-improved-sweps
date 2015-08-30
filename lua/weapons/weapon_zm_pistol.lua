@@ -9,7 +9,7 @@ if ( CLIENT ) then
 	SWEP.Icon = "vgui/ttt/icon_pistol"
 end
 
-SWEP.HoldType			= "ar2"
+SWEP.HoldType			= "pistol"
 SWEP.Base				= "weapon_ari_ttt_base"
 SWEP.Category			= "Arizard Realistic CS"
 

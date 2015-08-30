@@ -8,7 +8,7 @@ if ( CLIENT ) then
 		
 end
 
-SWEP.HoldType			= "ar2"
+SWEP.HoldType			= "shotgun"
 SWEP.Base				= "weapon_ari_ttt_base"
 SWEP.Category			= "Arizard Realistic CS"
 
