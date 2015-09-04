@@ -2,7 +2,7 @@ if ( CLIENT ) then
 
 	SWEP.PrintName			= "Rifle"			
 	SWEP.Author				= "Arizard"
-	SWEP.Slot				= 3
+	SWEP.Slot				= 2
 	SWEP.SlotPos			= 0
 	SWEP.IconLetter			= "n"
 	
