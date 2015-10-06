@@ -23,6 +23,8 @@ of the spectrum.
 Grenades will bounce predictably and consistently - they have a spherical hitbox now. This allows players to better understand where their grenade is going to land. 
 Grenades are also bouncier and make noise when they hit a surface at high speed.
 
+Working flash grenades have been added to the T and D menu and make a bouncing noise when they hit a surface. They do not deafen, they only blind for maybe 10 seconds or so.
+
 ## Recoil
 
 Weapons in this addon recoil in a predictable and compensatable manner. Weapon spread is random, however recoil always
@@ -154,4 +156,5 @@ is used for picking off targets at range.
 
 Extract ttt-improved-sweps-master into the addons folder, and you're done!
 
-## ![THANKS FOR READING! JOIN MY STEAM GROUP BY CLICKING HERE](http://steamcommunity.com/groups/vhs7)
+
+*** ![THANKS FOR READING! JOIN MY STEAM GROUP BY CLICKING HERE](http://steamcommunity.com/groups/vhs7) ***
