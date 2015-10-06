@@ -10,7 +10,7 @@ of the spectrum.
 ## Main Differences
 
 * All weapons have recoil
-* Added AK-47
+* Added AK-47 as a default weapon
 * M-16 fires faster
 * Pistol fires slower
 * Deagle fires slower
@@ -28,19 +28,19 @@ Working flash grenades have been added to the T and D menu and make a bouncing n
 ## Recoil
 
 Weapons in this addon recoil in a predictable and compensatable manner. Weapon spread is random, however recoil always
-kicks upwards and slightly to the right.
+kicks upwards and slightly to the right. Counter-strike players will feel somewhat at home.
 
 Recoil does not change your eyeangles at all - if you stop shooting, your eye angles return back to normal.
 Recoil is predicted clientside, but calculated serverside. Both these features prevent aimbotters holding mouse1
-and slaughtering the server.
+and slaughtering the server (maybe? I don't know much about this topic tbh).
 
 ## ADS
 
-Aiming down sights has a snappier and more pleasant feel to it. Moving while aiming down sights makes it more difficult
-to aim, thus balancing the "run-and-gun" aspect of TTT.
+Aiming down sights has a snappier and more pleasant feel to it. ADS reduces the random spread of the weapon (improving accuracy). 
+Moving while aiming down sights makes it more difficult to aim, thus balancing the "run-and-gun" aspect of TTT.
 
 Ironsights are also consistently accurate and always correspond to where your first bullet would land if 
-there were no spread.
+there were no spread, i.e. your aim vector.
 
 ## Movement
 
@@ -48,9 +48,12 @@ Guns are now slightly less accurate when moving, to avoid ADADAD players and run
 viable option with the Glock, MAC-10, Shotgun and Pistol, but weapons such as the Rifle, Deagle, M-16, Ak-47, HUGE-249 are non-viable
 as run-and-gun weapons.
 
+With some weapons, it is *more viable* to run-and-gun, but for other weapons, it is nearly impossible.
+
 ## Headshot buffs
 
-Headshots do *even more damage* now, to reward players who take the time to become proficient at using these weapons.
+Headshots do *even more damage* now, to reward players who take the time to become proficient at using these weapons. 
+Headshots can be recognised by their characteristic "dink" sound as well as a few glowing sparks from the victim's helmet.
 
 # Weapons in Detail
 
@@ -88,7 +91,7 @@ Headshots do *even more damage* now, to reward players who take the time to beco
   * 30-bullet magazine, max 60 reserve
   * Medium spread
   * Good running accuracy
-  * A weak but fast SMG. More effective in CQB where players can make best use of it's high mobility.
+  * A weak but fast SMG. More effective in close quarters combat where players can make best use of it's high mobility.
   
 * Pistol (Secondary)
   * Medium damage
@@ -149,7 +152,7 @@ Shotgun + Deagle may have high damage output, but the Shotgun's slow reload spee
 leave the user vulnerable.
 
 M-16 has an advantage at long range due to it's high accuracy and fire rate, but accuracy receives a major nerf while
-moving. M-16 + Glock addresses these issues - the Glock can be used as a high-power mobile CQB weapon, while the M-16 
+moving. M-16 + Glock addresses these issues - the Glock can be used as a high-power mobile close-quarters weapon, while the M-16 
 is used for picking off targets at range.
 
 # Installation
