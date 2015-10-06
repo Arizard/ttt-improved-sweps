@@ -128,7 +128,9 @@ function SWEP:Reload( mmyess )
 				timer.Simple( 0.8, function()
 					if not self then return end
 					self:SetClip1( self:Clip1() + 1 )
-					self.Owner:RemoveAmmo( 1, self.Primary.Ammo, false )
+					if IsValid( self.Owner ) then
+						self.Owner:RemoveAmmo( 1, self.Primary.Ammo, false )
+					end
 					self:Reload()
 				end)
 			end

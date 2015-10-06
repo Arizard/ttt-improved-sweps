@@ -52,4 +52,4 @@ SWEP.AllowDrop = true
 SWEP.IsSilent = false
 SWEP.NoSights = true
 SWEP.AutoSpawnable = true
-SWEP.Primary.ClipMax = 70
+SWEP.Primary.ClipMax = 60
