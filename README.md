@@ -34,7 +34,7 @@ Recoil does not change your eyeangles at all - if you stop shooting, your eye an
 Recoil is predicted clientside, but calculated serverside. Both these features prevent aimbotters holding mouse1
 and slaughtering the server (maybe? I don't know much about this topic tbh).
 
-## AIDS
+## AiDS
 
 Aiming down sights has a snappier and more pleasant feel to it. ADS reduces the random spread of the weapon (improving accuracy). 
 Moving while aiming down sights makes it more difficult to aim, thus balancing the "run-and-gun" aspect of TTT.
