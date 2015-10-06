@@ -34,7 +34,7 @@ Recoil does not change your eyeangles at all - if you stop shooting, your eye an
 Recoil is predicted clientside, but calculated serverside. Both these features prevent aimbotters holding mouse1
 and slaughtering the server (maybe? I don't know much about this topic tbh).
 
-## ADS
+## AiDS
 
 Aiming down sights has a snappier and more pleasant feel to it. ADS reduces the random spread of the weapon (improving accuracy). 
 Moving while aiming down sights makes it more difficult to aim, thus balancing the "run-and-gun" aspect of TTT.
@@ -151,7 +151,7 @@ and secondary. Rifle + Pistol combos could find create a balance between mobilit
 Shotgun + Deagle may have high damage output, but the Shotgun's slow reload speed and the Deagle's lack of mobility may
 leave the user vulnerable.
 
-M-16 has an advantage at long range due to it's high accuracy and fire rate, but accuracy receives a major nerf while
+M-16 has an advantage at long range due to its high accuracy and fire rate, but accuracy receives a major nerf while
 moving. M-16 + Glock addresses these issues - the Glock can be used as a high-power mobile close-quarters weapon, while the M-16 
 is used for picking off targets at range.
 
