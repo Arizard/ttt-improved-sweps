@@ -157,4 +157,4 @@ is used for picking off targets at range.
 Extract ttt-improved-sweps-master into the addons folder, and you're done!
 
 
-*** ![THANKS FOR READING! JOIN MY STEAM GROUP BY CLICKING HERE](http://steamcommunity.com/groups/vhs7) ***
+* Join the steam group here: http://steamcommunity.com/groups/vhs7 *
